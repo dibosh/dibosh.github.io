@@ -81,6 +81,10 @@ body, * {
   font-size: 0.9rem;
 }
 
-.main, .footer, .header {
+.github-contrib, .footer, .header {
   margin-bottom: 64px;
+}
+
+.main {
+  margin-bottom: 16px;
 }
