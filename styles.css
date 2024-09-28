@@ -16,8 +16,7 @@ body, * {
   align-items: center;
   padding: 64px 0;
   overflow-y: auto;
-  background-color: black;
-  height: 100%;
+  background-image: radial-gradient(#021027, #000000);
 }
 
 .content {
@@ -81,11 +80,7 @@ body, * {
   font-size: 0.9rem;
 }
 
-.github-contrib {
-  margin-bottom: 64px;
-}
-
-.header, .footer {
+.header, .footer, .github-contrib {
   margin-bottom: 24px;
 }
 
